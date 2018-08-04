@@ -2,7 +2,7 @@
   "name": "Facebook Memory Clean",
   "version": "0.0.1",
   "manifest_version": 2,
-  "description": "Clean Memory Facebook after 1min.",
+  "description": "Clean Memory Facebook after 1 min.",
   "icons" : {
     "16" : "icon16.png"
   },
