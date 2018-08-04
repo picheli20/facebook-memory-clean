@@ -4,7 +4,7 @@
 console.log("Facebook Memory Clean Started!");
 const intervalKey;
 
-const stopMemotyCleaning = () => clearInterval(intervalKey);
+const stopMemoryCleaning = () => clearInterval(intervalKey);
 
 const clearMemory = () => {
   console.log("Cleaning!");
